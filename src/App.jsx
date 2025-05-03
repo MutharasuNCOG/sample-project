@@ -10,8 +10,7 @@ function App() {
     <>
       <h1>Iframe Sample APP</h1>
       <div className="card">
-      <iframe src="http://localhost:5173/dform/226534353666363732343833393122/short" width="1200px" height="1200px" style="border: none;" allowfullscreen loading="lazy"></iframe>
-      </div>
+      <iframe src="https://5cbc-14-102-2-70.ngrok-free.app/dform/223738666539643836383538303822/short" width="1000px" height="1000px" style={{border:"none"}} allowFullScreen loading="lazy"></iframe>      </div>
     </>
   )
 }
