@@ -9,7 +9,7 @@ function App() {
     <>
       <h1>Iframe Sample APP</h1>
       <div className="card">
-      <iframe src="https://5cbc-14-102-2-70.ngrok-free.app/dform/226366623831346138333338343222/short" width="1000px" height="1000px" style={{border:"none"}} allowFullScreen loading="lazy"></iframe>
+      <iframe src="https://ecbd-14-102-2-70.ngrok-free.app/dform/226564653562306263303739323022/short" width="1200px" height="1200px"  style={{border:"none"}} allowFullScreen loading="lazy"></iframe>
       </div>
     </>
   )
