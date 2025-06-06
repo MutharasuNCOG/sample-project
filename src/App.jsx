@@ -7,7 +7,7 @@ function App() {
         fontFamily: 'Segoe UI, Roboto, Arial, sans-serif',
         background: 'linear-gradient(135deg, #e0f7fa, #f1f8e9)',
         minHeight: '100vh',
-        padding: '3rem 1rem',
+        padding: '0rem 1rem',
         display: 'flex',
         flexDirection: 'column',
         alignItems: 'center',
@@ -21,7 +21,7 @@ function App() {
           fontWeight: '600',
         }}
       >
-        📄 Iframe Sample App
+        DForms
       </h1>
       <div
         style={{
@@ -29,8 +29,7 @@ function App() {
           boxShadow: '0 10px 25px rgba(0, 0, 0, 0.1)',
           borderRadius: '12px',
           width: '100%',
-          maxWidth: '95%',
-          padding: '1rem',
+          maxWidth: '100%',
           overflow: 'hidden',
         }}
       >
